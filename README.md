@@ -1,8 +1,7 @@
 # dynamic-programming-solver
 In this system we have created a web application to show the working of 10 different dynamic programming algorithm in a very great UI.
 
-### Live Website
-[For live view](http://dynamic-solver.rf.gd/index.php?i=1)
+
 
 ### Problems Shown In System
 - Longest Common Subsequence
@@ -24,4 +23,4 @@ In this system we have created a web application to show the working of 10 diffe
 - Output can be shown cell by cell or the complete table at once
 
 ## Collaborator
-- Syed Muhammad Owais
+- Muhammad Ahsan Imran
